@@ -1,0 +1,16 @@
+Getting started in scikit-learn with the famous iris dataset 
+
+Agenda
+What is the famous iris dataset, and how does it relate to Machine Learning?
+How do we load the iris dataset into scikit-learn?
+How do we describe a dataset using Machine Learning terminology?
+What are scikit-learn's four key requirements for working with data?
+Introducing the iris dataset
+
+Iris--
+50 samples of 3 different species of iris (150 samples total)
+Measurements: sepal length, sepal width, petal length, petal width
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
